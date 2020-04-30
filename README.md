@@ -74,7 +74,7 @@ You can read a document ["Using the STM32F4 hardware real-time clock (RTC)"][5] 
 [2]: https://github.com/vsilchuk/STM32F4_CMSIS_RTC_LCD1602_clock/blob/master/doc/UA_Circuit_diagram.pdf 
 [3]: https://github.com/vsilchuk/STM32F4_CMSIS_RTC_LCD1602_clock/blob/master/doc/UA_Bill_of_materials.pdf  
 [4]: https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-configurators-and-code-generators/stsw-stm32091.html
-[5]: https://github.com/vsilchuk/STM32F4_CMSIS_RTC_LCD1602_clock/doc/UA_Using_the_STM32F4_hardware_real-time_clock.pdf
+[5]: https://github.com/vsilchuk/STM32F4_CMSIS_RTC_LCD1602_clock/blob/master/doc/UA_Using_the_STM32F4_hardware_real-time_clock.pdf
 [6]: https://www.st.com/resource/en/application_note/dm00025071-using-the-hardware-realtime-clock-rtc-in-stm32-f0-f2-f3-f4-and-l1-series-of-mcus-stmicroelectronics.pdf
 [7]: https://www.st.com/resource/en/reference_manual/dm00096844-stm32f401xb-c-and-stm32f401xd-e-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf
 [8]: https://www.st.com/resource/en/user_manual/dm00105823-stm32-nucleo64-boards-mb1136-stmicroelectronics.pdf
